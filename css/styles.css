@@ -11,15 +11,15 @@ ul, ol{
     list-style:none;
 }
 
-.logo 
+.logo {
     color:#4d5ae5
-    font-family:"Raleway",sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.17
+    line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
-}   
+    text-transform: uppercase; 
+} 
 
 .logo-part {
     color:#2E2F42;
@@ -54,7 +54,26 @@ font-style: normal;
 }
 
 .section {
- 
+background-color:#2e2f42;
 }
 
-.button {}
+.title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.button {
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+button:hover,
+button:focus{
+    background-color: #404BBF
+  }
