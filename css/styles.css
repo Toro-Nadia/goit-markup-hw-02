@@ -67,7 +67,7 @@ background-color:#2e2f42;
 }
 
 .button {
-    background-color: #4D5AE5;
+    background-color:#4D5AE5;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -80,4 +80,19 @@ button:focus{
 }
 .button{
  cursor: pointer;
+}
+
+.list {
+    font-weight: 500; 
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+    }
+
+.paragrag {
+    font-size: 16px; 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
