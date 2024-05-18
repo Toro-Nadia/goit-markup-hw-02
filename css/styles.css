@@ -77,11 +77,10 @@ background-color:#2e2f42;
 
 button:hover,
 button:focus{
-    background-color: #404BBF
+    background-color: #404BBF;
+    cursor: pointer;
 }
-.button {
- cursor: pointer;
-}
+
 
 .list {
     font-weight: 500; 
