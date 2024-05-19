@@ -76,8 +76,8 @@ background-color:#2e2f42;
     color: #ffffff;
 }
 
-button-link:hover,
-button-link:focus{
+.button-link:hover,
+.button-link:focus{
     background-color: #404BBF;
     cursor: pointer;
 }
@@ -179,7 +179,7 @@ button-link:focus{
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;  
-    letter-spacing: 0.03em,
+    letter-spacing: 0.03em;
     text-transform: uppercase; uppercase 
     color: #4d5ae5;
 }
